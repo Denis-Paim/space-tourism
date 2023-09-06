@@ -1,0 +1,106 @@
+.destination-page{
+    background-image: url('../assets/destination/background-destination-desktop.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 900px;
+    color: white;
+    padding-top: 212px;
+    padding-left: 166.5px;
+}
+
+.nav-destination{
+    margin-right: 156.5px;
+}
+
+.destination-page span{
+    color: #383B4B;
+    font-weight: bold;
+    margin-right: 28px;
+}
+
+.destination-page h2{
+    font-family: 'Barlow Condensed', 'sans-serif';
+    font-size: 28px;
+    font-weight: 100;
+    margin-bottom: 97px;
+    letter-spacing: 4.72px;
+}
+
+.destination-page h1{
+    font-family: 'Bellefair', serif;
+    font-size: 100px;
+    font-weight: 100;
+    text-transform: uppercase;
+    margin: 37px 111.5px 14px 0.5px;
+}
+
+.destination-page p{
+    font-family: 'Barlow', 'sans-serif';
+    font-size: 18px;
+    color: #D0D6F9;
+    line-height: 32px;
+    font-weight: 400;
+}
+
+
+.destination-page ul, .destination-content{
+    display: flex;
+}
+
+.destination-page ul{
+    color: #D0D6F9;
+    list-style: none;
+    font-family: 'Barlow Condensed', 'sans-serif';
+    font-size: 16px;
+    justify-content: space-between;
+    letter-spacing: 2.7px;
+    text-transform: uppercase;
+}
+
+.destination-page a{
+    text-decoration: none;
+}
+
+.destination-content img{
+    width: 445px;
+    height: 445px;
+    margin-right: 157px;
+}
+
+.destination-content .content{
+    width: 445px;
+    height: 472px;
+}
+
+.distance{
+    display: flex;
+}
+
+.distance p{
+    font-family: 'Barlow Condensed', 'sans-serif';
+    font-size: 14px;
+    letter-spacing: 2.36px;
+    text-align: justify;
+}
+
+.distance h2{
+    font-family: 'Bellefair', serif;
+    font-size: 28px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    padding-right: 79px;
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+
+.span-line{
+    width: 444px;   
+    height: 1px;
+    background-color: #383B4B;
+    display: block;
+    margin-top: 54px;
+    margin-bottom: 28px;
+}
+
